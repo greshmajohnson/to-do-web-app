@@ -14,7 +14,7 @@
         window.location = "./html/todo.html";
         }
         else{
-        alert("Please enter correct credentials")
+        alert("Please provide valid credentials")
         }
     });
 
